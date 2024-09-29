@@ -14,11 +14,6 @@ You use git clone to be able to download the documents in the GitHub
 ## Installation Requirements
 Git
 
-### Installation instruction
-```
-Git clone https://github.com/hamida-mstafa/Triangle-tracker.git
-
-```
 
 # Live Link
 [Git](gh-pages link)
@@ -28,7 +23,7 @@ Github
 Javascript
 
 ## Support and contact details
-github.com/hamida-mstafa
+github.com/Rico-Kimani
 
 ### License
 The content of this site is licensed under the MIT license
